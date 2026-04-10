@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Here is my portfolio. Let's connect & collab!
 
 <!--
 **anithashanmugam11/anithashanmugam11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
